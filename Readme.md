@@ -45,5 +45,5 @@ To run the CoinDispenser project T1 tests
 dotnet test
 
 ## Design
-High Level Architecture Diagrmas can be found here: ![Design diagrame](/FNBAssessment.CoinDispenserApi/Design/diagrame1.png)</a>
+High Level Architecture Diagrmas can be found here: ![Design diagrame](/Design/diagrame1.png)</a>
 
