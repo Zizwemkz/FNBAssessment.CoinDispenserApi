@@ -51,5 +51,5 @@ To run the CoinDispenser project , ensure you have installed [Docker Desktop](ht
 To run the CoinDispenser project T1 tests
 
 ## Design
-High Level Architecture Diagrmas can be found here: ![Design diagrame](/FNBAssessment.CoinDispenserApi/Design/diagrame.png)High Level Architecture</a>
+High Level Architecture Diagrmas can be found here: ![Design diagrame](/FNBAssessment.CoinDispenserApi/Design/diagrame1.png)</a>
 
